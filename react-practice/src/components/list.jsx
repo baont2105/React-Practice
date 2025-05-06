@@ -5,7 +5,7 @@ function Car(props) {
 }
 
 function Garage() {
-  const cars = ["Ford", "BMW", "Audi", "VinFast"];
+  const cars = ["Ford", "BMW", "Audi", "VinFast", "Mec"];
   return (
     <>
       <h1>Who lives in my garage?</h1>
